@@ -39,3 +39,4 @@ The trained model provides recommendations with a high level of accuracy, as ver
 ## Future Improvements
 - **Integration with Content-Based Filtering**: Combine with content-based filtering for better recommendations.
 - **Real-Time Recommendations**: Implement real-time recommendations by deploying the model as an API.
+- **Sentimental Analysis**: currently this project is based on deep learning, further we can make it more efficient by implementing sentimental analysis.
